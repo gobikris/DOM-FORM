@@ -1,0 +1,112 @@
+
+.body{
+    /* background-color:rgb(247, 187, 110); */
+    background: #00B4DB;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.form-group{
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 90px;
+    font-weight: bold;
+    
+}
+input{
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+textarea{
+    border-radius: 8px;
+    padding: 5px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#first-name, #last-name, #state{
+    position: relative;
+    left: 45px;
+    width: 300px;
+}
+#pincode{
+    position: relative;
+    left: 50px;
+    width: 300px;
+}
+#country{
+    position: relative;
+    left: 35px;
+    width: 300px;
+}
+#email{
+    position: relative;
+    left: 40px;
+    width: 300px;
+}
+#address{
+    position: relative;
+    left: 40px;
+    width: 300px;
+}
+.form-group2{
+    padding: 8px;
+    word-spacing: 5px
+}
+.form-group.btn:hover{
+    background-color: green;
+    
+}
+.form-groupM{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    right: 95px; 
+    font-weight: bold;
+}
+ .form-group2{
+     font-family: 'Times New Roman', Times, serif;
+     position: relative;
+     right: 50px;
+     font-weight: bold;
+ }
+ 
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border: #1a251f;
+    border-collapse: collapse;
+} 
+h1{
+    color: rgb(97, 221, 14);
+   
+}
+p{
+    color: red
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
